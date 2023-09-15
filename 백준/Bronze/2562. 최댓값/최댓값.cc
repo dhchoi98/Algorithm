@@ -11,8 +11,8 @@ int main(){
     for(int i = 0; i < 9; i++){
         cin >> num[i];
     }
-    max = num[0];
-    seq = 0;
+    max = -1;
+
     for(int j = 0; j < 9; j++){
         if(max < num[j]){
             max = num[j];
