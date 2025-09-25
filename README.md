@@ -11,6 +11,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhchoi98/Algorithm/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/dhchoi98/Algorithm/tree/master/0020-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,4 +46,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dhchoi98/Algorithm/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/dhchoi98/Algorithm/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
