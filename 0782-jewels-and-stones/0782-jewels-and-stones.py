@@ -1,18 +1,10 @@
 class Solution:
     def numJewelsInStones(self, jewels: str, stones: str) -> int:
-        freqs = {}
+        freqs = collections.Counter(stones) # 돌 (stones) 빈도 수 계산
         count = 0
 
-        # 돌 (S)의 빈도 수 계산
-        for char in stones:
-            if char not in freqs: # 처음
-                freqs[char] = 1
-            else: # 존재 하면
-                freqs[char] += 1
-        # 보석 (J)의 빈도 수 합산
+        # 비교 없이 보석 (jewels) 빈도 수 합산
         for char in jewels:
-            if char in freqs:
-                count += freqs[char]
-
-        return count
+            count += freqs[char]
         
+        return count
