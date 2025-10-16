@@ -25,6 +25,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhchoi98/Algorithm/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/dhchoi98/Algorithm/tree/master/0046-permutations) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhchoi98/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0739-daily-temperatures](https://github.com/dhchoi98/Algorithm/tree/master/0739-daily-temperatures) |
 | [0817-design-hashmap](https://github.com/dhchoi98/Algorithm/tree/master/0817-design-hashmap) |
@@ -118,4 +119,5 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dhchoi98/Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/dhchoi98/Algorithm/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
