@@ -139,6 +139,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0200-number-of-islands](https://github.com/dhchoi98/Algorithm/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/dhchoi98/Algorithm/tree/master/0207-course-schedule) |
 | [0332-reconstruct-itinerary](https://github.com/dhchoi98/Algorithm/tree/master/0332-reconstruct-itinerary) |
+| [0543-diameter-of-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dhchoi98/Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Graph
 |  |
@@ -177,8 +178,10 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
