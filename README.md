@@ -135,6 +135,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/dhchoi98/Algorithm/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/dhchoi98/Algorithm/tree/master/0207-course-schedule) |
 | [0332-reconstruct-itinerary](https://github.com/dhchoi98/Algorithm/tree/master/0332-reconstruct-itinerary) |
@@ -152,6 +153,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/dhchoi98/Algorithm/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/dhchoi98/Algorithm/tree/master/0207-course-schedule) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dhchoi98/Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -171,4 +173,12 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dhchoi98/Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
