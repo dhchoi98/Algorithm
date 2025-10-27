@@ -14,6 +14,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0005-longest-palindromic-substring](https://github.com/dhchoi98/Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dhchoi98/Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/dhchoi98/Algorithm/tree/master/0020-valid-parentheses) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/dhchoi98/Algorithm/tree/master/0316-remove-duplicate-letters) |
 | [0782-jewels-and-stones](https://github.com/dhchoi98/Algorithm/tree/master/0782-jewels-and-stones) |
 ## Dynamic Programming
@@ -89,6 +90,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/dhchoi98/Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dhchoi98/Algorithm/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0817-design-hashmap](https://github.com/dhchoi98/Algorithm/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/dhchoi98/Algorithm/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/dhchoi98/Algorithm/tree/master/0860-design-circular-queue) |
@@ -139,6 +141,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0200-number-of-islands](https://github.com/dhchoi98/Algorithm/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/dhchoi98/Algorithm/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/dhchoi98/Algorithm/tree/master/0332-reconstruct-itinerary) |
 | [0543-diameter-of-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/dhchoi98/Algorithm/tree/master/0617-merge-two-binary-trees) |
@@ -161,6 +164,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0200-number-of-islands](https://github.com/dhchoi98/Algorithm/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/dhchoi98/Algorithm/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/dhchoi98/Algorithm/tree/master/0617-merge-two-binary-trees) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dhchoi98/Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Topological Sort
@@ -184,6 +188,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/dhchoi98/Algorithm/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/dhchoi98/Algorithm/tree/master/0687-longest-univalue-path) |
@@ -192,6 +197,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/dhchoi98/Algorithm/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/dhchoi98/Algorithm/tree/master/0687-longest-univalue-path) |
