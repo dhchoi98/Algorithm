@@ -143,6 +143,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0207-course-schedule](https://github.com/dhchoi98/Algorithm/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/dhchoi98/Algorithm/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/dhchoi98/Algorithm/tree/master/0332-reconstruct-itinerary) |
 | [0543-diameter-of-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/dhchoi98/Algorithm/tree/master/0617-merge-two-binary-trees) |
@@ -152,6 +153,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/dhchoi98/Algorithm/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/dhchoi98/Algorithm/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/dhchoi98/Algorithm/tree/master/0332-reconstruct-itinerary) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dhchoi98/Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Eulerian Circuit
@@ -166,12 +168,14 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0207-course-schedule](https://github.com/dhchoi98/Algorithm/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/dhchoi98/Algorithm/tree/master/0310-minimum-height-trees) |
 | [0617-merge-two-binary-trees](https://github.com/dhchoi98/Algorithm/tree/master/0617-merge-two-binary-trees) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dhchoi98/Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/dhchoi98/Algorithm/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/dhchoi98/Algorithm/tree/master/0310-minimum-height-trees) |
 ## Union Find
 |  |
 | ------- |
