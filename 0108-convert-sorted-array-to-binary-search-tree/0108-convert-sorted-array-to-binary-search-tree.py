@@ -4,16 +4,23 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
 class Solution:
     def sortedArrayToBST(self, nums: List[int]) -> Optional[TreeNode]:
-        if not nums: # 빈 리스트 입력 시
-            return None
         
-        mid = len(nums) // 2
+        def build(lo: int, hi: int) -> Optional[TreeNode]:
+            # 종료 조건: 구간이 비면 None 반환
+            if lo > hi:
+                return None
 
-        # 분할 정복으로 이진 검색 결과 트리 구성
-        node = TreeNode(nums[mid])
-        node.left = self.sortedArrayToBST(nums[:mid])
-        node.right = self.sortedArrayToBST(nums[mid + 1:])
+            mid = (lo + hi) // 2
+            node = TreeNode(nums[mid])  # 현재 구간의 중앙값으로 노드 생성
 
-        return node
+            # 분할 정복 (좌/우 서브트리 구성)
+            node.left = build(lo, mid - 1)
+            node.right = build(mid + 1, hi)
+
+            return node
+        
+        # 전체 구간(0 ~ len(nums)-1)으로 시작
+        return build(0, len(nums) - 1)
