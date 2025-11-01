@@ -150,6 +150,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0543-diameter-of-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/dhchoi98/Algorithm/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/dhchoi98/Algorithm/tree/master/0687-longest-univalue-path) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/dhchoi98/Algorithm/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dhchoi98/Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0975-range-sum-of-bst](https://github.com/dhchoi98/Algorithm/tree/master/0975-range-sum-of-bst) |
 ## Graph
@@ -173,6 +174,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/dhchoi98/Algorithm/tree/master/0310-minimum-height-trees) |
 | [0617-merge-two-binary-trees](https://github.com/dhchoi98/Algorithm/tree/master/0617-merge-two-binary-trees) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/dhchoi98/Algorithm/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dhchoi98/Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
@@ -202,6 +204,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0543-diameter-of-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/dhchoi98/Algorithm/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/dhchoi98/Algorithm/tree/master/0687-longest-univalue-path) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/dhchoi98/Algorithm/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/dhchoi98/Algorithm/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -214,10 +217,12 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0543-diameter-of-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/dhchoi98/Algorithm/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/dhchoi98/Algorithm/tree/master/0687-longest-univalue-path) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/dhchoi98/Algorithm/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/dhchoi98/Algorithm/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhchoi98/Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/dhchoi98/Algorithm/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/dhchoi98/Algorithm/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
