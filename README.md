@@ -16,6 +16,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0020-valid-parentheses](https://github.com/dhchoi98/Algorithm/tree/master/0020-valid-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dhchoi98/Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/dhchoi98/Algorithm/tree/master/0316-remove-duplicate-letters) |
+| [0336-palindrome-pairs](https://github.com/dhchoi98/Algorithm/tree/master/0336-palindrome-pairs) |
 | [0782-jewels-and-stones](https://github.com/dhchoi98/Algorithm/tree/master/0782-jewels-and-stones) |
 ## Dynamic Programming
 |  |
@@ -35,6 +36,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhchoi98/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/dhchoi98/Algorithm/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhchoi98/Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+| [0336-palindrome-pairs](https://github.com/dhchoi98/Algorithm/tree/master/0336-palindrome-pairs) |
 | [0739-daily-temperatures](https://github.com/dhchoi98/Algorithm/tree/master/0739-daily-temperatures) |
 | [0817-design-hashmap](https://github.com/dhchoi98/Algorithm/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/dhchoi98/Algorithm/tree/master/0859-design-circular-deque) |
@@ -46,6 +48,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhchoi98/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dhchoi98/Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dhchoi98/Algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0336-palindrome-pairs](https://github.com/dhchoi98/Algorithm/tree/master/0336-palindrome-pairs) |
 | [0782-jewels-and-stones](https://github.com/dhchoi98/Algorithm/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/dhchoi98/Algorithm/tree/master/0817-design-hashmap) |
 ## Linked List
@@ -241,4 +244,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhchoi98/Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/dhchoi98/Algorithm/tree/master/0336-palindrome-pairs) |
 <!---LeetCode Topics End-->
