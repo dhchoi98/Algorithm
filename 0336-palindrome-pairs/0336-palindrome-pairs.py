@@ -1,7 +1,7 @@
 class TrieNode:
     def __init__(self):
         self.children = collections.defaultdict(TrieNode)
-        self.word_id = -1
+        self.word_id = -1 # 각 단어가 끝나는 지점
         self.palindrome_word_ids = []
 
 class Trie:
