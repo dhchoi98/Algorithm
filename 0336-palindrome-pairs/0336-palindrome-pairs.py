@@ -1,8 +1,8 @@
 class TrieNode:
     def __init__(self):
-        self.children = collections.defaultdict(TrieNode)
-        self.word_id = -1 # 각 단어가 끝나는 지점
-        self.palindrome_word_ids = []
+        self.children = collections.defaultdict(TrieNode) # 다음 노드로 연결되는 딕셔너리
+        self.word_id = -1 # 각 단어가 끝나는 지점, -1 일경우 아직 단어가 끝나지 않음(중간 노드), 아닐 경우 해당 단어의 입력 시 인덱스
+        self.palindrome_word_ids = [] # 
 
 class Trie:
     def __init__(self):
@@ -10,15 +10,15 @@ class Trie:
     
     @staticmethod
     def is_palindrome(word: str) -> bool:
-        return word[::] == word[::-1]
+        return word[::] == word[::-1] # 슬라이싱(slicing) 을 이용한 역순 문자열 생성을 통해 펠린드롬 판별
 
     # 단어 삽입
-    def insert(self, index, word) -> None:
+    def insert(self, index, word) -> None:                                        
         node = self.root
         for i, char in enumerate(reversed(word)):
-            if self.is_palindrome(word[0:len(word) - i]):
+            if self.is_palindrome(word[0:len(word) - i]):# 단어를 거꾸로 넣으면서, 아직 넣지 않은 앞부분(word[0:len(word)-i])이 회문이면,
                 node.palindrome_word_ids.append(index)
-            node = node.children[char]
+            node = node.children[char] 
             node.val = char
         node.word_id = index
     
@@ -37,7 +37,7 @@ class Trie:
             word = word[1:]
 
         # 판별 로직
-        if node.word_id >= 0 and node.word_id != index:
+        if node.word_id >= 0 and node.word_id != index: # word_id가 -1이 아니고, 현재 인덱스와 다르면
             result.append([index, node.word_id])
 
         # 판별 로직
