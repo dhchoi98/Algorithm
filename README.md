@@ -7,6 +7,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhchoi98/Algorithm/tree/master/0005-longest-palindromic-substring) |
+| [0148-sort-list](https://github.com/dhchoi98/Algorithm/tree/master/0148-sort-list) |
 ## String
 |  |
 | ------- |
@@ -61,6 +62,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0023-merge-k-sorted-lists](https://github.com/dhchoi98/Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/dhchoi98/Algorithm/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/dhchoi98/Algorithm/tree/master/0092-reverse-linked-list-ii) |
+| [0148-sort-list](https://github.com/dhchoi98/Algorithm/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/dhchoi98/Algorithm/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/dhchoi98/Algorithm/tree/master/0328-odd-even-linked-list) |
 | [0817-design-hashmap](https://github.com/dhchoi98/Algorithm/tree/master/0817-design-hashmap) |
@@ -117,6 +119,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0023-merge-k-sorted-lists](https://github.com/dhchoi98/Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dhchoi98/Algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhchoi98/Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/dhchoi98/Algorithm/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhchoi98/Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -128,6 +131,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dhchoi98/Algorithm/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/dhchoi98/Algorithm/tree/master/0148-sort-list) |
 ## Hash Function
 |  |
 | ------- |
@@ -242,6 +246,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/dhchoi98/Algorithm/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhchoi98/Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
