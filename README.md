@@ -32,6 +32,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0001-two-sum](https://github.com/dhchoi98/Algorithm/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/dhchoi98/Algorithm/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/dhchoi98/Algorithm/tree/master/0046-permutations) |
+| [0056-merge-intervals](https://github.com/dhchoi98/Algorithm/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/dhchoi98/Algorithm/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dhchoi98/Algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhchoi98/Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -246,6 +247,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/dhchoi98/Algorithm/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/dhchoi98/Algorithm/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhchoi98/Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
