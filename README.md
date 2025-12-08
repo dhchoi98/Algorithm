@@ -48,6 +48,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0817-design-hashmap](https://github.com/dhchoi98/Algorithm/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/dhchoi98/Algorithm/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/dhchoi98/Algorithm/tree/master/0860-design-circular-queue) |
+| [0973-k-closest-points-to-origin](https://github.com/dhchoi98/Algorithm/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dhchoi98/Algorithm/tree/master/0002-add-two-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/dhchoi98/Algorithm/tree/master/0973-k-closest-points-to-origin) |
 ## Stack
 |  |
 | ------- |
@@ -128,12 +130,14 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhchoi98/Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/dhchoi98/Algorithm/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhchoi98/Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/dhchoi98/Algorithm/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dhchoi98/Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhchoi98/Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dhchoi98/Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/dhchoi98/Algorithm/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -259,13 +263,19 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0148-sort-list](https://github.com/dhchoi98/Algorithm/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/dhchoi98/Algorithm/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhchoi98/Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/dhchoi98/Algorithm/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhchoi98/Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/dhchoi98/Algorithm/tree/master/0973-k-closest-points-to-origin) |
 ## Trie
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/dhchoi98/Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0336-palindrome-pairs](https://github.com/dhchoi98/Algorithm/tree/master/0336-palindrome-pairs) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/dhchoi98/Algorithm/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
