@@ -32,6 +32,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhchoi98/Algorithm/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/dhchoi98/Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/dhchoi98/Algorithm/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/dhchoi98/Algorithm/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/dhchoi98/Algorithm/tree/master/0056-merge-intervals) |
@@ -252,6 +253,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/dhchoi98/Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhchoi98/Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0704-binary-search](https://github.com/dhchoi98/Algorithm/tree/master/0704-binary-search) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/dhchoi98/Algorithm/tree/master/0799-minimum-distance-between-bst-nodes) |
